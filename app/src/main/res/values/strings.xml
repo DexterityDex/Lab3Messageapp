@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AP Navigation App</string>
+    <string name="enter_credentials">Введите данные для регистрации</string>
+    <string name="menu_screen_title">Меню</string>
+    <string name="unread_screen_title">Непрочитанные</string>
+    <string name="read_screen_title">Прочитанные</string>
+    <string name="profile_title">Профиль</string>
+    <string name="signout_title">Выйти</string>
+    <string name="sign_in">Войти</string>
+    <string name="sign_up_request">Запрос на регистрацию</string>
+    <string name="send_request">Отправить запрос</string>
+</resources>

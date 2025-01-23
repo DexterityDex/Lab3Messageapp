@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo
+drawable menubutton
+drawable returnbutton
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string enter_credentials
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string menu_screen_title
+string profile_title
+string project_id
+string read_screen_title
+string send_request
+string sign_in
+string sign_up_request
+string signout_title
+string unread_screen_title
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules

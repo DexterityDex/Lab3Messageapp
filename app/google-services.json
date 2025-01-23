@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592383251887",
+    "project_id": "message-app",
+    "storage_bucket": "message-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592383251887:android:e1cc35f565cb2f9d97cb5a",
+        "android_client_info": {
+          "package_name": "com.dexterity500.messageapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZTQ00Jvg7edjkPMN7x54oaZMwtYOilu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
